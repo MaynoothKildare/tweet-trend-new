@@ -1,4 +1,4 @@
-# Trend applications
+# Trending applications
 
 This is a small application that contains the main and test folders.  
 Main contains application code.  
